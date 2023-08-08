@@ -16,6 +16,7 @@ h2{
     /* 1vh =19.2px viewport height */
     position: relative;
     background-color: white;
+    color: blue;
 }
 .navbar{
     display: flex; /* side by side */
